@@ -20,7 +20,7 @@ Trays enable even higher levels of organisation.
 - .stl
 - .f3D (Parametric)
 
-2D:     (For model recontruction in any CAD and refrence)
+2D:     (For model reconstruction in any CAD package and refrence)
 - .dxf 
 - .pdf
 

@@ -8,8 +8,10 @@ Simple method to organize things off all sizes. Modular containers snap into pos
 
 ### Features :
 Parametric design allows to size boxes to suit your needs. 
+
 Three part construction allows reusability.
-Trays allow even higher levels of organisation.
+
+Trays enable even higher levels of organisation.
 
 
 ### Design data :
